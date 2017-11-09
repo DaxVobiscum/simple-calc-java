@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Run build.sh first if you haven't already
 
 if [ ! -f app.jar ]; then
